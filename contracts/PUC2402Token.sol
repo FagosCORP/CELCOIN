@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract PUC2402Token is ERC20, ERC20Burnable, Ownable {
     constructor(address initialOwner)
-        ERC20("PUCMG 2024-02 Token", "PUC2402")
+        ERC20("CELCOIN Token", "CELCOIN-TOKEN")
         Ownable(initialOwner)
     {}
 

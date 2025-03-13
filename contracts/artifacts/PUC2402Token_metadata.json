@@ -647,11 +647,11 @@
 			]
 		},
 		"contracts/PUC2402Token.sol": {
-			"keccak256": "0x64ba4cf8f22363eb172602bfd758543011218c52f532ba4ec1d976a48adcdb9a",
+			"keccak256": "0xe9d881bb7973f859e51c299d98ceae2d5a505d72bfa90cd3f52376f7014f857f",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://ef3e8933f9ee6702bbea07b8a7ba458d8230f47506cdadb5a7117faf5020b520",
-				"dweb:/ipfs/QmfLh4L4QH2iwDAcyeDCSqKrR6gSUMDHYwYyRqoZ4fRNVw"
+				"bzz-raw://d97e19bd0bcc32caa627da29884615a96eb8c9acb85b25b40400bfac7063118f",
+				"dweb:/ipfs/QmeW8jfJBGozC6KNJsq9YnCTz6CiqAtRx6SwkvQCJX6twM"
 			]
 		}
 	},
